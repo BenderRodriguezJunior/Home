@@ -1,2 +1,3 @@
 # Home
-It's my home repository
+It's my home repositor.
+Mini has been joined.
